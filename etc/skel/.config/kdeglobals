@@ -5,5 +5,5 @@ ColorScheme=BreezeDark
 Theme=Papirus
 
 [KDE]
-LookAndFeelPackage=org.kde.breezedark.desktop
+LookAndFeelPackage=org.summitos.breezedarksos.desktop
 ShowDeleteCommand=false
